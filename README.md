@@ -1,2 +1,2 @@
-# history
+first static site
  
